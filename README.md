@@ -1,3 +1,6 @@
 # FormationPANDAS
-Support de cours illustrant l'utilisant de Pandas pour des problèmes de fouille de données. 
-Sont abordées différentes approches d'analyse statistique et d'apprentisssage machine : ACP, kMeans, arbres de décision, réseaux de neurones
+Support de cours illustrant l'utilisant de Pandas pour des problèmes de fouille de données, par analyse statistique ou apprentissage machine. 
+
+Sont abordées différentes approches : ACP, kMeans, arbres de décision, réseaux de neurones.
+
+Plusieurs carnets (Jupyter notebooks) sont proposés.
